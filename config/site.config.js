@@ -52,8 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'dkb web',
+      name: 'DKB WEB',
       link: 'https://www.dkb.si/',
+    },
+    {
+      name: 'Discord',
+      link: 'https://discord.gg/ZBQCQ7u',
     },
   ],
 
